@@ -8,6 +8,11 @@ plugins {
 android {
     compileSdk 32
 
+    buildFeatures{
+        viewBinding=true
+    }
+
+
     defaultConfig {
         applicationId "com.yasincakir.bankagirisekrantasarimi"
         minSdk 23
