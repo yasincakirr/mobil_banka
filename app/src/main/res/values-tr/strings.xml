@@ -4,6 +4,7 @@
     <string name="itirazbutonu">Yoksa Yasin degil misin ?</string>
     <string name="girisbutonu">Giriş</string>
     <string name="QRbuton">QR ile Ödeme</string>
+    <string name="uyelik">Üye olmak istiyorum</string>
     <string name="cekbuton">Para çek/yatır</string>
     <string name="dovizbuton">Döviz kurları</string>
     <string name="atmbuton">En Yakın Akbank</string>
