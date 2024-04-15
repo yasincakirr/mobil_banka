@@ -5,6 +5,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.navigation.Navigation
 import com.yasincakir.bankagirisekrantasarimi.databinding.FragmentBireyselBinding
 import com.yasincakir.bankagirisekrantasarimi.databinding.FragmentKurumsalBinding
 
@@ -16,9 +17,6 @@ class kurumsalFragment : Fragment() {
 
 
         binding = FragmentKurumsalBinding.inflate(inflater, container, false)
-
-
-
 
 
         return binding.root

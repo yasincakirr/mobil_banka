@@ -8,12 +8,14 @@
         <entry key="..\:/Users/Asus/AndroidStudioProjects/BankaGirisEkranTasarimi/app/src/main/res/drawable/btn_tasarim.xml" value="0.2555" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/BankaGirisEkranTasarimi/app/src/main/res/drawable/buttom_kenarlik.xml" value="0.2545" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/BankaGirisEkranTasarimi/app/src/main/res/drawable/custom_button.xml" value="0.2525" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/BankaGirisEkranTasarimi/app/src/main/res/drawable/hata_mesaji.xml" value="0.2555" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/BankaGirisEkranTasarimi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2555" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/BankaGirisEkranTasarimi/app/src/main/res/drawable/money.xml" value="0.2555" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/BankaGirisEkranTasarimi/app/src/main/res/drawable/qrcode.xml" value="0.2555" />
-        <entry key="..\:/Users/Asus/AndroidStudioProjects/BankaGirisEkranTasarimi/app/src/main/res/layout/activity_main.xml" value="0.19673617407071622" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/BankaGirisEkranTasarimi/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/BankaGirisEkranTasarimi/app/src/main/res/layout/activity_main2.xml" value="0.20521590423257802" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/BankaGirisEkranTasarimi/app/src/main/res/layout/fragment_bireysel.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/BankaGirisEkranTasarimi/app/src/main/res/layout/fragment_bottom_sheet.xml" value="0.20521590423257802" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/BankaGirisEkranTasarimi/app/src/main/res/layout/fragment_kurumsal.xml" value="0.20521590423257802" />
       </map>
     </option>

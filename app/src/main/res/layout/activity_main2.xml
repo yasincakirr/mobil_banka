@@ -14,7 +14,7 @@
         android:layout_marginBottom="250dp"
         android:text="YASİNBANK"
         android:textColor="#FFFFFF"
-        android:textSize="75sp"
+        android:textSize="60sp"
         android:textStyle="italic"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

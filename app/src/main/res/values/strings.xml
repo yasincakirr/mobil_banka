@@ -9,7 +9,7 @@
     //Giriş
     <string name="QRbuton">Pay with QR</string>
     //QR ile Ödeme
-    <string name="uyelik" >I want to be a customer</string>
+    <string name="uyelik">I want to be a customer</string>
     //Yasinbankli Olmak İstiyorum
     <string name="cekbuton">Withdraw/deposit money</string>
     //Para çek/yatır
@@ -17,7 +17,7 @@
     //Döviz kurları
     <string name="atmbuton">Closet Akbank</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name = "hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     //En Yakın Akbank
 
 
